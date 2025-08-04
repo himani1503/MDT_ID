@@ -704,14 +704,15 @@
         // Initialize with some sample data
         users['MT-2024-001234'] = {
             id: 'MT-2024-001234',
-            name: 'John Doe',
-            phone: '9876543210',
-            dob: '1990-01-01',
-            email: 'john.doe@example.com',
+            name: 'Himani Hingne',
+            phone: '9878913456',
+            dob: '15.3.2004',
+            email: 'himani@gmail.com',
             aadhar: '123456789012',
             password: 'demo123',
             createdDate: new Date().toISOString()
         };
     </script>
 </body>
+
 </html>
